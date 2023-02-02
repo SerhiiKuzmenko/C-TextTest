@@ -1,0 +1,14 @@
+D:\MyProgs\MyMemoryCs\bin\Debug\netcoreapp3.1\MyMemoryCs.exe
+D:\MyProgs\MyMemoryCs\bin\Debug\netcoreapp3.1\MyMemoryCs.deps.json
+D:\MyProgs\MyMemoryCs\bin\Debug\netcoreapp3.1\MyMemoryCs.runtimeconfig.json
+D:\MyProgs\MyMemoryCs\bin\Debug\netcoreapp3.1\MyMemoryCs.runtimeconfig.dev.json
+D:\MyProgs\MyMemoryCs\bin\Debug\netcoreapp3.1\MyMemoryCs.dll
+D:\MyProgs\MyMemoryCs\bin\Debug\netcoreapp3.1\MyMemoryCs.pdb
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.csproj.AssemblyReference.cache
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.AssemblyInfoInputs.cache
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.AssemblyInfo.cs
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.csproj.CoreCompileInputs.cache
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.dll
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.pdb
+D:\MyProgs\MyMemoryCs\obj\Debug\netcoreapp3.1\MyMemoryCs.genruntimeconfig.cache
